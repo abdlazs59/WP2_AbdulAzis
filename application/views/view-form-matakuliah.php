@@ -54,6 +54,8 @@
             </tr>
         </table>
         </form>
+        <?php echo validation_errors();?>
     </center>
+   
 </body>
 </html>
